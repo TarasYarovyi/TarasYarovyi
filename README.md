@@ -27,4 +27,4 @@ I've been learning to code for 2 years. At first I just wanted to understand wha
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/TarasYarovyi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TarasYarovyi&stroke=ffffff&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/TarasYarovyi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TarasYarovyi&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
