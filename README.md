@@ -27,8 +27,11 @@ I've been learning to code for 2 years. At first I just wanted to understand wha
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/TarasYarovyi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TarasYarovyi&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
 <a href="https://github.com/TarasYarovyi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarasYarovyi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="http://www.github.com/TarasYarovyi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TarasYarovyi&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
+
 <b>Codewars</b>
+
 <a href="https://www.codewars.com/users/TarasYarovyi"><img src="https://www.codewars.com/users/TarasYarovyi/badges/large"/></a>
 
