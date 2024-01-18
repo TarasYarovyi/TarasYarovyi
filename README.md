@@ -27,7 +27,7 @@ I've been learning to code for 2 years. At first I just wanted to understand wha
 
 <b>My GitHub Stats</b>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TarasYarovyi&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TarasYarovyi&theme=dark)](https://github.com/TarasYarovyi)
 
 <b>Codewars</b>
 
