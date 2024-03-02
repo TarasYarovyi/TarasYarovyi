@@ -8,7 +8,7 @@ I've been learning to code for 2 years. At first I just wanted to understand wha
 
 * 🌍  I'm based in Wroclaw, Poland
 * ✉️  You can contact me at [yarovoy.taras@gmail.com](mailto:yarovoy.taras@gmail.com)
-* 🧠  Currently, I'm learning SASS
+* 🧠  Currently, I'm learning React
 * 🤝  I'm open to collaborating on all interesting projects
 
 ### Skills
