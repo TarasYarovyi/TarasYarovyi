@@ -7,9 +7,9 @@ I\`m FullStack Developer
 I've been learning to code for 2 years. At first I just wanted to understand what is going on the other side of the screen, but then javascript became my passion.
 
 * 🌍  I'm based in Wroclaw, Poland
-* ✉️  You can contact me at [yarovoy.taras@gmail.com](mailto:yarovoy.taras@gmail.com)
+* ✉️  You can contact me via e-mail [yarovoy.taras@gmail.com](mailto:yarovoy.taras@gmail.com)
 * 🧠  Currently, I'm learning Express
-* 🤝  I'm open to collaborating on all interesting projects
+* 🤝  I'm open to collaboration and new challenges. 
 
 ### Skills
 
