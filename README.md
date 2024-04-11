@@ -10,6 +10,7 @@ I've been learning to code for 2 years. At first I just wanted to understand wha
 * ✉️  You can contact me via e-mail [yarovoy.taras@gmail.com](mailto:yarovoy.taras@gmail.com)
 * 🧠  Currently, I'm learning Express
 * 🤝  I'm open to collaboration and new challenges. 
+* 🍴  Cooking is my second passion, another hobby is travelling.  
 
 ### Skills
 
