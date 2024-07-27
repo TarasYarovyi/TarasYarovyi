@@ -8,7 +8,7 @@ I've been learning to code for 2 years. At first I just wanted to understand wha
 
 * 🌍  I'm based in Wroclaw, Poland
 * ✉️  You can contact me via e-mail [yarovoy.taras@gmail.com](mailto:yarovoy.taras@gmail.com)
-* 🧠  Currently, I'm practicing on HuckerRank and Codewars
+* 🧠  Currently, I'm practicing on HuckerRank and Codewars and learn greedy algorithms.
 * 🤝  I'm open to collaboration and new challenges. 
 * 🍴  Cooking is my second passion, the first one is eating.
 
