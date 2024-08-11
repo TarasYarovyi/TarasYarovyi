@@ -12,6 +12,7 @@ I've been learning to code for 2 years. At first I just wanted to understand wha
 * 🤝  I'm open to collaboration and new challenges. 
 * 🍴  Cooking is my second passion, the first one is eating.
 
+
 ### Skills
 
 
